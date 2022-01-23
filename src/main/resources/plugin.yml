@@ -1,0 +1,11 @@
+name: ExpTech_Organization
+version: 1.0
+author: whes1015
+main: main.main
+api-version: 1.18
+
+commands:
+  or:
+    description: 控制 ExpTech_Organization 插件
+    usage: /or <args>
+    permission: exptech.admin
